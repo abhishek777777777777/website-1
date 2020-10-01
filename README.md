@@ -10,7 +10,7 @@ Contributing to the website
 
 **Note:** Major issues or feature requests should be filed on the [issue tracker](https://github.com/mono/website/issues) first, so we can discuss the implications.
 
-If you want to edit a page, the easiest way is to click the ![Edit page on GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
+ let start If you want to edit a page, the easiest way is to click the ![Edit page on GitHub](https://cloud.githubusercontent.com/assets/1376924/3712375/a6d7bc42-150f-11e4-9ceb-5230cbbfba3f.png) link under the page title on the website.
 
 This will open the source file on GitHub where you can click the pencil button to start editing:
 ![Arrow to pencil](https://cloud.githubusercontent.com/assets/1376924/3712474/1d2fe57a-1517-11e4-86b2-d083dbeaa4ae.png)
@@ -63,4 +63,4 @@ Writing a blog post
 
 Blogging is very easy with Jekyll. Browse to `_posts` directory, copy the Markdown file `_TEMPLATE.md` and rename that file following the file name convention: `YEAR-MONTH-DAY-title.md`. Then open the file you renamed and follow the steps there to complete writing a blog post.
 
-Make sure to not include special characters in the file name. The blog entry's publishing date is automatically extracted from the file name.
+Make sure to not include or an sign special characters in the file name. The blog entry's publishing date is automatically extracted from the file name.
